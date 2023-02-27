@@ -1,11 +1,10 @@
+// packages needed
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
-const questions = [];
-inquirer
-  .prompt([
+const questions = [
     
       {
         type: 'input',
@@ -53,14 +52,15 @@ inquirer
         name: 'email',
         message: 'What is your email address?',
     },
-  ])
-  .then((data) => {
-    const html = generateMarkdown(data);
+  ];
+
+//   .then((data) => {
+//     const answers = generateMarkdown(data);
     
-    fs.writetoFile('./generateREADME.md', data, (err) =>
-      err ? console.log(err) : console.log('Success!')
-    );
-  });
+//     fs.writeFile('./generateREADME.md', data, (err) =>
+//       err ? console.log(err) : console.log('Success!')
+//     );
+//   });
 
 function init() {
     inquirer.prompt(questions).then((data) => {
@@ -72,3 +72,4 @@ function init() {
 }
 
 init();
+module.exports = questions;
