@@ -1,9 +1,9 @@
 
   ## Title
-  README Generator
+  README.md Generator
 
 ## Description
-Through answering a series of prompts using node inquirer, the app will generate a 
+Using node inquirer's interactive series of prompts, the user provides details that result in a quick and professional README document.
 
 ## Table of Contents
 
@@ -16,19 +16,21 @@ Through answering a series of prompts using node inquirer, the app will generate
 
 ## Installation
 
-Clone the repository and run "node index.js"
+Clone the repository and start the app with the command line, "node index.js"
 
 ## Usage
 
-the app requires node inquirer 8.2.4
+The app runs inquirer 8.2.4
 
 ## License
 
 This project is licensed under the MIT license.
+## License: MIT  ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
+### https://choosealicense.com/licenses/mit/cle
 
 ## Tests
 
-no tests currently needed
+tests are not available at this time
 
 ## Questions? Contact me at:
 

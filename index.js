@@ -44,8 +44,8 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'Linkedin username',
-        message: 'What is your Linkedin username?',
+        name: 'LinkedIn username',
+        message: 'What is your Linkedin url?',
     },
     {
         type: 'input',

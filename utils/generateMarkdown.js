@@ -77,8 +77,8 @@ ${data.usage}
 ## License
 
 This project is licensed under the ${data.license} license.
-## ${renderLicenseSection(answer.license)} ${renderLicenseBadge(answer.license)}
-### ${renderLicenseLink(answer.license)}
+## ${renderLicenseSection(data.license)} ${renderLicenseBadge(data.license)}
+### ${renderLicenseLink(data.license)}cle
 
 ## Tests
 
