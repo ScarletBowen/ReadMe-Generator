@@ -1,26 +1,30 @@
 
   ## Title
-  README.md Generator
+  Readme Generator
 
 ## Description
-Using node inquirer's interactive series of prompts, the user provides details that result in a quick and professional README document.
+an interactive node app that prompts the user for information that generates a README file
 
 ## Table of Contents
 
+- [Title](#title)
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
+- [License: MIT  ](#license-mit--)
+  - [https://choosealicense.com/licenses/mit/cle](#httpschoosealicensecomlicensesmitcle)
 - [Tests](#tests)
-- [Questions](#questions)
+- [Questions? Contact me at:](#questions-contact-me-at)
 
 ## Installation
 
-Clone the repository and start the app with the command line, "node index.js"
+npm i inquirer@8.2.4
 
 ## Usage
 
-The app runs inquirer 8.2.4
+to start the app, clone the repo and type node index.js in the terminal
 
 ## License
 
@@ -30,7 +34,7 @@ This project is licensed under the MIT license.
 
 ## Tests
 
-tests are not available at this time
+n/a
 
 ## Questions? Contact me at:
 
