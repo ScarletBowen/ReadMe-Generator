@@ -37,3 +37,5 @@ n/a
 ScarletBowen
 https://www.linkedin.com/in/scarlet-bowen-ph-d-232b1b41/
 scarlet.bowen@gmail.com 
+
+<img width="1103" alt="readme-generator" src="https://user-images.githubusercontent.com/109751916/222323628-fcd6235f-fa71-45d5-9332-65f5a97bf1a1.png">
