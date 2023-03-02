@@ -1,22 +1,18 @@
 
   ## Title
-  Readme Generator
+  README Generator
 
 ## Description
-an interactive node app that prompts the user for information that generates a README file
+An app using node that prompts the user for information that generates a quick and easy README file
 
 ## Table of Contents
 
-- [Title](#title)
-- [Description](#description)
-- [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [License: MIT  ](#license-mit--)
-  - [https://choosealicense.com/licenses/mit/cle](#httpschoosealicensecomlicensesmitcle)
+- [Contributing](#contributing)
 - [Tests](#tests)
-- [Questions? Contact me at:](#questions-contact-me-at)
+- [Questions](#questions)
 
 ## Installation
 
@@ -24,7 +20,7 @@ npm i inquirer@8.2.4
 
 ## Usage
 
-to start the app, clone the repo and type node index.js in the terminal
+to start the app, clone the repository and type node index.js in the terminal
 
 ## License
 
@@ -39,5 +35,5 @@ n/a
 ## Questions? Contact me at:
 
 ScarletBowen
-undefined
+https://www.linkedin.com/in/scarlet-bowen-ph-d-232b1b41/
 scarlet.bowen@gmail.com 
